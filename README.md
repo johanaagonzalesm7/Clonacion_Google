@@ -3,10 +3,10 @@
 
 ## **ÍNDICE**
 
-* [1. Intro](https://github.com/johanaagonzalesm7/Clonacion_Google/edit/main/README.md#1-intro)
-* [2. Qué construí](https://github.com/johanaagonzalesm7/Clonacion_Google/edit/main/README.md#2-qu%C3%A9-constru%C3%AD)
-* [3. Objetivo del Proyecto](https://github.com/johanaagonzalesm7/Clonacion_Google/edit/main/README.md#3-objetivo-del-proyecto)
-* [4. Link a Demo](https://github.com/johanaagonzalesm7/Clonacion_Google/edit/main/README.md#4-link-a-demo)
+* [1. Intro](https://github.com/johanaagonzalesm7/Clonacion_Google/blob/main/README.md#1-intro)
+* [2. Qué construí](https://github.com/johanaagonzalesm7/Clonacion_Google/blob/main/README.md#2-qu%C3%A9-constru%C3%AD)
+* [3. Objetivo del Proyecto](https://github.com/johanaagonzalesm7/Clonacion_Google/blob/main/README.md#3-objetivo-del-proyecto)
+* [4. Link a Demo](https://github.com/johanaagonzalesm7/Clonacion_Google/blob/main/README.md#4-link-a-demo)
 
 ****
 
